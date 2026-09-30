@@ -1,22 +1,21 @@
 # Andrew Strachan
 
-UAB **M.S. Cybersecurity** student and **CyberCorps Scholarship for Service (SFS) Fellow** (status confirmed by Andrew).
+UAB **M.S. Cybersecurity** student and **CyberCorps Scholarship for Service (SFS) Fellow**.
 
 ## Focus
 
 - Secure infrastructure and foundation-first DevSecOps
-- AI tools for education and local, privacy-preserving study workflows
+- Education technology and secure backend architecture
+- Local, privacy-preserving AI workflows for study tools
 - Cryptography and blockchain coursework
-- Local AI (on-device models, document-grounded tutoring)
 
 ## Highlights
 
-- [MaqkrsTutor-public](https://github.com/astrachan163/MaqkrsTutor-public) — local-first macOS study assistant (SwiftUI, Ollama/Gemma, document-grounded RAG)
-- [ghs-learning-platform](https://github.com/astrachan163/ghs-learning-platform) — foundation-first learning-platform backend with security CI, RBAC, and threat modeling
-- [aether-apothecary](https://github.com/astrachan163/aether-apothecary) — Next.js storefront path (Firebase / Stripe integration practice)
-- CS646 Sanctum study hub — React/TypeScript coursework tool with validated content packs (public demo URL TBD)
-- Cloud coursework — AWS file-share lab (S3, DynamoDB, SES/Lambda) and STRIDE threat-modeling assignments (artifacts kept private)
-- Personal Agentic Citadel — local gatekeeper + RAG experiments for zero-trust personal agents (repo not public yet)
+- [MaqkrsTutor-public](https://github.com/astrachan163/MaqkrsTutor-public) — local-first macOS study assistant built with SwiftUI, SwiftData, and Ollama-hosted Gemma models, including deterministic study workflows and document-grounded retrieval.
+- [ghs-learning-platform](https://github.com/astrachan163/ghs-learning-platform) — foundation-first TypeScript backend demonstrating security CI, Firebase JWT auth, RBAC middleware, STRIDE threat modeling, Terraform baseline IaC, and governance-first documentation.
+- [aether-apothecary](https://github.com/astrachan163/aether-apothecary) — Next.js storefront project focused on Firebase and Stripe test-mode integration patterns for portfolio e-commerce architecture practice.
+- [Strachan-CS332-532](https://github.com/astrachan163/Strachan-CS332-532) — archived coursework repository containing early systems/lab work from CS332/532.
+- Cloud/security coursework — AWS file-share lab (S3, DynamoDB, SES/Lambda), cryptography assignments, and threat-modeling artifacts (private where required by course policy).
 
 ## How I work
 
@@ -26,5 +25,4 @@ I treat secrets and credentials as first-class risks: prefer short-lived or envi
 
 - GitHub: https://github.com/astrachan163
 - LinkedIn: https://www.linkedin.com/in/andrew-william-strachan/
-- Portfolio: _URL TBD — do not invent_
-
+- Portfolio: https://d3jeotfnsm148g.cloudfront.net
