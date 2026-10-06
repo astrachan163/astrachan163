@@ -20,6 +20,6 @@ I treat secrets and credentials as first-class risks: prefer short-lived or envi
 
 ## Links
 
-- GitHub: https://github.com/astrachan163
+- Electronic Career Portfolio: https://astrachan163.github.io/electronic-career-portfolio/
+- Project Atlas Portfolio: https://d3jeotfnsm148g.cloudfront.net
 - LinkedIn: https://www.linkedin.com/in/andrew-william-strachan/
-- Portfolio: https://d3jeotfnsm148g.cloudfront.net
