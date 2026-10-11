@@ -9,11 +9,9 @@
 
 **M.S. Cybersecurity Candidate | CyberAICorps Scholar | UAB**
 
-Andrew Strachan is a full-time Master of Science, Cybersecurity student at the University of Alabama at Birmingham (UAB), January 2026 – expected December 2027. He is an SFS CyberAICorps scholarship recipient. The scholarship is NSF-funded, with a post-graduation government service commitment.
+I'm a full-time Master of Science, Cybersecurity student at the University of Alabama at Birmingham (UAB). I began in January 2026, and I expect to finish in December 2027. I'm an SFS CyberAICorps scholarship recipient. The scholarship is NSF-funded, with a post-graduation government service commitment.
 
-He is Founder & Technologist at MaQkrs Consulting (MS & AL), January 2022 – Present.
-
-**Status:** Public profile. Live: https://github.com/astrachan163 · Part of [Andrew Strachan's portfolio](https://www.nonartificialsi.com).
+I'm Founder & Technologist at MaQkrs Consulting (MS & AL), January 2022 – Present.
 
 ## Featured
 
@@ -22,7 +20,7 @@ He is Founder & Technologist at MaQkrs Consulting (MS & AL), January 2022 – Pr
 Pre-release beta. Cited answers, on your device.
 
 - Public repository: [MaqkrsTutor-public](https://github.com/astrachan163/MaqkrsTutor-public)
-- Portfolio page: https://www.nonartificialsi.com/maqkrstutor/ (noindex until launch)
+- Portfolio page: https://www.nonartificialsi.com/maqkrstutor/
 
 ### AdaptiveHS
 
@@ -40,20 +38,8 @@ https://www.nonartificialsi.com
 - Electronic Career Portfolio: https://astrachan163.github.io/electronic-career-portfolio/
 - Email: strachan@uab.edu
 
-## Tests and checks
-
-This repository is a profile page. It has no install step, build, linter, or unit suite. Run these from the repository root:
-
-```sh
-node scripts/check-claims.mjs
-node scripts/check-emoji.mjs
-gitleaks dir . --redact
-```
-
-## Security
-
-No secrets are committed. Report a problem to strachan@uab.edu.
-
 ## Credits
 
 Author: Andrew Strachan.
+
+Checks for this page: [docs/CHECKS.md](docs/CHECKS.md).
