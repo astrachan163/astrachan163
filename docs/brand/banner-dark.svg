@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-labelledby="title desc">
+  <title id="title">Andrew Strachan</title>
+  <desc id="desc">M.S. Cybersecurity Candidate, CyberAICorps Scholar, UAB. MaQkrs wordmark on white.</desc>
+  <rect width="880" height="340" fill="#182048"/>
+  <rect width="880" height="8" fill="#3F9E40"/>
+  <text x="64" y="48" fill="#FFFFFF" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="64" font-weight="700" dominant-baseline="hanging">Andrew Strachan</text>
+  <text x="64" y="132" fill="#FFFFFF" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="36" font-weight="700" dominant-baseline="hanging">M.S. Cybersecurity Candidate</text>
+  <text x="64" y="176" fill="#FFFFFF" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="36" font-weight="700" dominant-baseline="hanging">CyberAICorps Scholar | UAB</text>
+  <rect x="40" y="232" width="236" height="76" rx="8" fill="#FFFFFF"/>
+  <text x="64" y="248" fill="#2F64C8" font-family="'Liberation Sans', Arial, Helvetica, sans-serif" font-size="44" font-weight="700" dominant-baseline="hanging">MaQkrs</text>
+</svg>
