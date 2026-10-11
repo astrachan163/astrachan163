@@ -26,8 +26,6 @@ Pre-release beta. Cited answers, on your device.
 
 A K-12 homeschool adaptive learning platform.
 
-Live: https://adaptivehs-v2.web.app
-
 ### Portfolio
 
 https://www.nonartificialsi.com
