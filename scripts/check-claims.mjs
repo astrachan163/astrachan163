@@ -48,6 +48,8 @@ const CASE_INSENSITIVE = [
   String.raw`Tier 5`,
   String.raw`His Name`,
   String.raw`seeking internships?`,
+  // Case-insensitive. Phrases already listed above still match once.
+  String.raw`Information Security Systems Engineer|Secure Systems Architect|Tier 3|background investigations?|Operational Director|Laboratory Specialist|Montevallo[^.]{0,80}3\.75|regulatory licensure|Master Prosector|required full FDA|30-day (free )?trial|Georgia Milestones|Standards of Excellence|Clearable|Tier 5`,
 ];
 
 const CASE_SENSITIVE = [
@@ -104,7 +106,17 @@ export function findClaims(text) {
     }
   }
   hits.sort((a, b) => a.start - b.start || a.end - b.end);
-  return hits;
+  const unique = [];
+  const seen = new Set();
+  for (const hit of hits) {
+    const key = `${hit.start}:${hit.end}:${hit.text}`;
+    if (seen.has(key)) {
+      continue;
+    }
+    seen.add(key);
+    unique.push(hit);
+  }
+  return unique;
 }
 
 function lineNumber(text, index) {
@@ -146,6 +158,19 @@ function selfTest() {
   assertCase("game boy spaced", "Game Boy", true);
   assertCase("game boy closed", "GameBoy", true);
   assertCase("standards line", "aligned with state standards", true);
+  assertCase("info sec title", "Information Security Systems Engineer", true);
+  assertCase("architect title", "secure systems architect", true);
+  assertCase("tier 3", "Tier 3", true);
+  assertCase("background investigation", "background investigation", true);
+  assertCase("background investigations", "background investigations", true);
+  assertCase("operational director", "Operational Director", true);
+  assertCase("lab specialist", "Laboratory Specialist", true);
+  assertCase("montevallo gpa", "Montevallo coursework 3.75", true);
+  assertCase("montevallo name only", "University of Montevallo", false);
+  assertCase("licensure", "regulatory licensure", true);
+  assertCase("prosector", "Master Prosector", true);
+  assertCase("georgia milestones", "Georgia Milestones", true);
+  assertCase("standards of excellence", "Standards of Excellence", true);
 }
 
 function main() {
