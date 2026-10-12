@@ -5,6 +5,7 @@ This repository is a profile page. It has no install step, build, linter, or uni
 ```sh
 node scripts/check-claims.mjs
 node scripts/check-emoji.mjs
+node scripts/check-banned-mark.mjs
 gitleaks dir . --redact
 ```
 
