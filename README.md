@@ -24,9 +24,9 @@ Pre-release beta. Cited answers, on your device.
 - Public repository: [MaqkrsTutor-public](https://github.com/astrachan163/MaqkrsTutor-public)
 - Portfolio page: https://www.nonartificialsi.com/maqkrstutor/
 
-### AdaptiveHS
+### AdaptiveSchool
 
-A K-12 homeschool adaptive learning platform.
+A schooling portal for students, teachers, and parents. Rebuild in progress.
 
 ### Portfolio
 
@@ -53,7 +53,7 @@ https://www.nonartificialsi.com
       <td><a href="https://www.nonartificialsi.com">https://www.nonartificialsi.com</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="assets/brand/victorious-herbal-mark.png" alt="" width="32" height="32"></td>
       <td>Victorious Herbal Elements</td>
       <td><a href="https://herbal.nonartificialsi.com">https://herbal.nonartificialsi.com</a></td>
     </tr>
