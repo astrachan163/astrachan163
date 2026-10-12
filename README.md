@@ -70,6 +70,32 @@ https://www.nonartificialsi.com
   </tbody>
 </table>
 
+## All links
+
+| Type | Name | Link | Note |
+|---|---|---|---|
+| Hub | Portfolio (Project Atlas) | https://www.nonartificialsi.com/ | live |
+| Hub | Command Center | https://maqkrs-command.web.app/ | web.app (command. domain pending DNS) |
+| Brand | Signature brand kit v3 (MQ crest) | https://www.nonartificialsi.com/brand/ | live |
+| Brand | Playful pixel crew demo | https://www.nonartificialsi.com/brand/crew/ | live (noindex) |
+| Brand | Playful pixel crew illustration | https://www.nonartificialsi.com/brand/illustration/crew/ | live |
+| Brand | Brand play page | https://www.nonartificialsi.com/brand/play/ | listed on board |
+| Preview | Atlas chapters preview | https://www.nonartificialsi.com/preview/chapters/ | noindex |
+| Review | Review hub | https://www.nonartificialsi.com/review/oct10-e5e3ced3/ | noindex |
+| Review | Design system review | https://www.nonartificialsi.com/review/oct10-e5e3ced3/system/ | noindex |
+| Site | MaQkrs Learn | https://ghs-lp-dev-astrachan163.web.app/ | fallback; learn.nonartificialsi.com has no DNS yet |
+| Site | Adaptive School | https://adaptivehs-v2.web.app/ | fallback; adaptiveschool./adaptivehs. no DNS yet |
+| Demo login | Adaptive School sign-in | https://adaptivehs-v2.web.app/auth/login/ | demo |
+| Site | Adaptive School student / teacher / parent | https://adaptivehs-v2.web.app/student/ | also /teacher/ and /parent/ |
+| Site | Sanctum (CS 646) | https://cs646-sanctum-app.web.app/ | sanctum. domain pending DNS |
+| Admin | Victorious Herbal Elements admin | https://aether-apothecary.web.app/ | herbal. domain pending DNS |
+| Site | Legacy Meadows (preview) | https://legacy-meadows.web.app/ | pre-AWS |
+| Legal | MaQkrs Tutor privacy | https://www.nonartificialsi.com/maqkrstutor/privacy | live |
+| Code | GitHub profile | https://github.com/astrachan163 |  |
+| Code | Career portfolio repo | https://github.com/astrachan163/electronic-career-portfolio | career. domain planned |
+
+Full table: https://www.nonartificialsi.com/links/
+
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/andrew-william-strachan
