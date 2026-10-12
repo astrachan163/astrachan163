@@ -50,6 +50,10 @@ const CASE_INSENSITIVE = [
   String.raw`seeking internships?`,
   // Case-insensitive. Phrases already listed above still match once.
   String.raw`Information Security Systems Engineer|Secure Systems Architect|Tier 3|background investigations?|Operational Director|Laboratory Specialist|Montevallo[^.]{0,80}3\.75|regulatory licensure|Master Prosector|required full FDA|30-day (free )?trial|Georgia Milestones|Standards of Excellence|Clearable|Tier 5`,
+  // AdaptiveHS is the retired product name in prose. AdaptiveSchool is allowed.
+  String.raw`\bAdaptiveHS\b`,
+  String.raw`K-12`,
+  String.raw`homeschool`,
 ];
 
 const CASE_SENSITIVE = [
@@ -171,6 +175,12 @@ function selfTest() {
   assertCase("prosector", "Master Prosector", true);
   assertCase("georgia milestones", "Georgia Milestones", true);
   assertCase("standards of excellence", "Standards of Excellence", true);
+  assertCase("retired product name", "AdaptiveHS", true);
+  assertCase("retired product name lower", "adaptivehs", true);
+  assertCase("current school name", "AdaptiveSchool", false);
+  assertCase("k-12", "K-12", true);
+  assertCase("homeschool", "homeschool", true);
+  assertCase("homeschooling", "homeschooling", true);
 }
 
 function main() {
