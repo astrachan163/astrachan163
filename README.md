@@ -81,9 +81,7 @@ https://www.nonartificialsi.com
 Author: Andrew Strachan.
 
 <p align="center">
-  <a href="https://www.nonartificialsi.com/">
-    <img src="assets/brand/built-by-maqkrs-dark@2x.png" alt="Built by MaQkrs" width="176">
-  </a>
+  <a href="https://www.nonartificialsi.com/">Built by MaQkrs</a>
 </p>
 
 Checks for this page: [docs/CHECKS.md](docs/CHECKS.md).
