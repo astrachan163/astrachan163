@@ -1,11 +1,8 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/maqkrs-wordmark-pixel-night@2x.png">
-    <img src="assets/brand/maqkrs-wordmark-pixel-day@2x.png" alt="MaQkrs" width="368">
-  </picture>
-</p>
+<!-- Logo slot: assets/brand/logo/ holds no art yet. This heading is the only header logo until the MQ crest is dropped in that directory. -->
 
-# Andrew Strachan
+# MaQkrs
+
+## Andrew Strachan
 
 **M.S. Cybersecurity Candidate | CyberAICorps Scholar | UAB**
 
@@ -84,9 +81,7 @@ https://www.nonartificialsi.com
 Author: Andrew Strachan.
 
 <p align="center">
-  <a href="https://www.nonartificialsi.com/">
-    <img src="assets/brand/built-by-maqkrs-dark@2x.png" alt="Built by MaQkrs" width="176">
-  </a>
+  <a href="https://www.nonartificialsi.com/">Built by MaQkrs</a>
 </p>
 
 Checks for this page: [docs/CHECKS.md](docs/CHECKS.md).
