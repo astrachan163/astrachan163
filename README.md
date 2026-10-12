@@ -17,8 +17,6 @@ I'm Founder & Technologist at MaQkrs Consulting (MS & AL), January 2022 – Pres
 
 ### MaQkrs AI Tutor
 
-<img src="assets/brand/maqkrs-mark-cubebot@1x.png" alt="" width="32" height="32">
-
 Pre-release beta. Cited answers, on your device.
 
 - Public repository: [MaqkrsTutor-public](https://github.com/astrachan163/MaqkrsTutor-public)
