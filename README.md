@@ -1,8 +1,10 @@
-<!-- Logo slot: assets/brand/logo/ holds no art yet. This heading is the only header logo until the MQ crest is dropped in that directory. -->
+<!-- Logo slot: assets/brand/logo/maqkrs_lockup_horizontal.png is the only header logo. -->
 
-# MaQkrs
+<p align="center">
+  <img src="assets/brand/logo/maqkrs_lockup_horizontal.png" alt="MaQkrs" width="480">
+</p>
 
-## Andrew Strachan
+# Andrew Strachan
 
 **M.S. Cybersecurity Candidate | CyberAICorps Scholar | UAB**
 
