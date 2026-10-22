@@ -56,7 +56,7 @@ A schooling portal for students, teachers, and parents. The hosted demo uses sam
     <tr>
       <td><img src="assets/brand/oracle-idle-4x.png" alt="" width="32" height="32"></td>
       <td>CS646 Sanctum</td>
-      <td><a href="https://d1puxvoeqwchkj.cloudfront.net/">Sanctum</a></td>
+      <td><a href="https://sanctum.nonartificialsi.com/">Sanctum</a></td>
     </tr>
     <tr>
       <td><img src="assets/brand/course_tracker-idle-4x.png" alt="" width="32" height="32"></td>
