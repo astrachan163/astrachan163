@@ -24,7 +24,7 @@ An on-device study assistant for Mac, iPhone, and iPad, currently in beta testin
 
 ### AdaptiveSchool
 
-A schooling portal for students, teachers, and parents.
+A schooling portal for students, teachers, and parents. The hosted demo uses sample data.
 
 [Explore AdaptiveSchool](https://adaptiveschool.nonartificialsi.com/)
 
